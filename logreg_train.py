@@ -25,7 +25,7 @@ class LogisticRegression:
 
     """
     def __init__(self, file='datasets/dataset_train.csv', y_true='Slytherin', x_columns=[], size=10, lr=0.15,
-                 num_iter=2000, fit_intercept=True, verbose=False):
+                 num_iter=2000, fit_intercept=True, verbose=1):
         self.lr = lr
         self.num_iter = num_iter
         self.verbose = verbose
@@ -113,7 +113,7 @@ class LogisticRegression:
             h = self.__sigmoid(z)
             gradient = np.dot(X.T, (h - y)) / y.size
             self.theta -= self.lr * gradient
-            if (self.verbose == True and i % 10000 == 0):
+            if (self.verbose and i % 10000 == 0):
                 z = np.dot(X, self.theta)
                 h = self.__sigmoid(z)
                 print(f'loss: {self.__loss(h, y)} \t')
@@ -175,12 +175,17 @@ if __name__ == '__main__':
         parser.add_argument('--num_iter', nargs=1,
                             help="Input count iter, default value is 100",
                             default=[100], type=int, required=False)
+        parser.add_argument('--verbose', nargs=1,
+                            help="Input 1 if want information of epohs and loss, else 0",
+                            default=[1], type=int, required=False)
 
         pars = parser.parse_args()
         lr = {'Ravenclaw': [], 'Slytherin': [], 'Gryffindor': [], 'Hufflepuff': []}
         for i in lr:
+            if pars.verbose[0]:
+                print (i + ':')
             lr[i].append(LogisticRegression(file=pars.file[0], y_true=i, x_columns=pars.x_columns,
-                                            lr=pars.lr[0], num_iter=pars.num_iter[0], size=pars.size[0]))
+                                            lr=pars.lr[0], num_iter=pars.num_iter[0], size=pars.size[0], verbose=pars.verbose[0]))
             lr[i][0].fit()
             lr[i].append(lr[i][0].theta)
 
