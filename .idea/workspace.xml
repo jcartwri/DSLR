@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4080e8c-5490-499f-8a3b-72868e8a4cb3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="ee6225dd-8846-4f71-ae85-f5b865a85e11" />
+  <component name="ProjectId" id="1jviThBw8xooXNz9IzOGDcQ1OQD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\18322440\Documents\21\dslr\datasets" />
+      <recent name="C:\Users\18322440\Documents\21\dslr\jupyter_notebooks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.logreg_predict">
+    <configuration name="logreg_predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dslr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logreg_predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logreg_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dslr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logreg_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.logreg_predict" />
+        <item itemvalue="Python.logreg_train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4080e8c-5490-499f-8a3b-72868e8a4cb3" name="Default Changelist" comment="" />
+      <created>1604690975757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604690975757</updated>
+      <workItem from="1604690994289" duration="7420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604699506606">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1604699506606" />
+    <state x="361" y="0" key="#logreg_predict" timestamp="1604702225294">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="0" key="#logreg_predict/0.0.1280.680@0.0.1280.680" timestamp="1604702225294" />
+    <state x="361" y="0" key="#logreg_train" timestamp="1604699544688">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="0" key="#logreg_train/0.0.1280.680@0.0.1280.680" timestamp="1604699544688" />
+    <state width="1237" height="23" key="GridCell.Tab.0.bottom" timestamp="1604702234265">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="23" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604702234265" />
+    <state width="1237" height="23" key="GridCell.Tab.0.center" timestamp="1604702234265">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="23" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604702234265" />
+    <state width="1237" height="23" key="GridCell.Tab.0.left" timestamp="1604702234265">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="23" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604702234265" />
+    <state width="1237" height="23" key="GridCell.Tab.0.right" timestamp="1604702234265">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="23" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604702234265" />
+    <state width="1237" height="23" key="GridCell.Tab.1.bottom" timestamp="1604702239054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="23" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604702239054" />
+    <state width="1237" height="23" key="GridCell.Tab.1.center" timestamp="1604702239053">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="23" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1604702239053" />
+    <state width="1237" height="23" key="GridCell.Tab.1.left" timestamp="1604702239053">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="23" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1604702239053" />
+    <state width="1237" height="23" key="GridCell.Tab.1.right" timestamp="1604702239054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="23" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1604702239054" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/logreg_train.py</url>
+          <line>160</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/logreg_predict.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dslr$logreg_train.coverage" NAME="logreg_train Coverage Results" MODIFIED="1604701158462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dslr$logreg_predict.coverage" NAME="logreg_predict Coverage Results" MODIFIED="1604702234068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
